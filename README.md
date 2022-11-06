@@ -15,7 +15,9 @@ DersonDawson/README.md Hi 👋, I'm Anderson A passionate fullstack developer fr
 ⚡ Fun fact I love my Autistic Son 🧩 and my lovely daughter 🧡
 
 Connect with me:
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 
 DersonDawson Languages and Tools:
 
 bootstrap css3 docker express figma flask gatsby git go graphql html5 javascript jest laravel linux mariadb mongodb mysql nextjs nodejs postgresql postman puppeteer python react reactnative redis redux sass tailwind typescript
+
