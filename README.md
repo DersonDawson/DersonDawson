@@ -12,7 +12,7 @@ DersonDawson/README.md
 
 📫 How to reach me andersonsmurf@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anderson-machado-morais-077b70b5/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/anderson-machado-morais/]
 
 ⚡ Fun fact I love my Autistic Son 🧩 and my lovely daughter 🧡
 
