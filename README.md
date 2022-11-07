@@ -10,9 +10,9 @@ DersonDawson/README.md
 
 💬 Ask me about ReactJS, NodeJS
 
-📫 How to reach me andersonsmurf@gmail.com
+📫 How to reach me: <a href = "mailto:andersonsmurf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-- 📄 Know about my experiences: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anderson-machado-morais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/anderson-machado-morais?trk=profile-badge">Anderson Machado Morais</a></div>
+📄 Know about my experiences: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anderson-machado-morais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/anderson-machado-morais?trk=profile-badge">Anderson Machado Morais</a></div>
 
 ⚡ Fun fact I love my Autistic Son 🧩 and my lovely daughter 🧡
 
@@ -35,8 +35,8 @@ DersonDawson/README.md
 ##
   
 <div> 
-  <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andersonsmurf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  
   <a href="https://www.linkedin.com/in/danielmoraismm616/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/danielmm616/danielmm616/blob/output/github-contribution-grid-snake.svg)
