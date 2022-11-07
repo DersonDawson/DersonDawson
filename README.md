@@ -25,7 +25,7 @@ DersonDawson/README.md                                     <div align="center">
 
 <div align="center"> 
  
-![Snake animation](https://github.com/danielmm616/danielmm616/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DersonDawson/snake-dersondawson/edit/main/github-contribution-grid-snake.svg)
  
 </div>
 
