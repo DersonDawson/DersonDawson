@@ -2,7 +2,7 @@ DersonDawson/README.md
                                                             Hi 👋, I'm Anderson 
                                               A passionate fullstack developer from Brazil
 
-🔭 I’m currently working at Localiza 
+🔭 I’m currently working at Localiza <p align="right"><img align="right" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a/ALm5wu3B46orHJd0PQ5ocFwzq5o2xExFbBNM7fjFfytk=s455-p-no"></p>
 
 🌱 I’m currently learning C++
 
@@ -26,7 +26,7 @@ DersonDawson/README.md
 <div align="center"> 
  
 ![Snake animation](https://github.com/danielmm616/danielmm616/blob/output/github-contribution-grid-snake.svg)
-<img align="right" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a/ALm5wu3B46orHJd0PQ5ocFwzq5o2xExFbBNM7fjFfytk=s455-p-no">
+
  
 </div>
               
