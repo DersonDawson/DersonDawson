@@ -2,7 +2,7 @@ DersonDawson/README.md                                     <div align="center">
                                                            Hi 👋, I'm Anderson 
                                               A passionate fullstack developer from Brazil
   <p align="left"><a href="https://www.instagram.com/paidoclarkedaclara/"><img src="https://lh3.googleusercontent.com/a/ALm5wu3B46orHJd0PQ5ocFwzq5o2xExFbBNM7fjFfytk=s455-p-no" target="_blank" alt="insta" width="100" height="100" style="border-radius:50px;"></a>  </p></div>
-<div >                                              
+<div display="inline-block">                                              
 <div align="left">                                            
 🔭 I’m currently working at Localiza
 
