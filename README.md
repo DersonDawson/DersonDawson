@@ -12,7 +12,7 @@ DersonDawson/README.md
 
 📫 How to reach me andersonsmurf@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anderson-machado-morais/]
+- 📄 Know about my experiences [<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anderson-machado-morais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/anderson-machado-morais?trk=profile-badge">Anderson Machado Morais</a></div>]
 
 ⚡ Fun fact I love my Autistic Son 🧩 and my lovely daughter 🧡
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielmm616&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@ DersonDawson/README.md
 <p align="left">
 <a href="https://www.linkedin.com/in/anderson-machado-morais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatolinsjr" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anderson-machado-morais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/anderson-machado-morais?trk=profile-badge">Anderson Machado Morais</a></div>
+
 
  
 
