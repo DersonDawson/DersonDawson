@@ -23,9 +23,10 @@ DersonDawson/README.md
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DersonDawson&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div> 
+<div align="center"> 
  
- ![Snake animation](https://github.com/danielmm616/danielmm616/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielmm616/danielmm616/blob/output/github-contribution-grid-snake.svg)
+ <img align="right" alt="Daniels-pic" height="150" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=577060534420222&set=a.509243401201936">
  
 </div>
               
