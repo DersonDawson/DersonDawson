@@ -2,7 +2,7 @@ DersonDawson/README.md                                     <div align="center">
                                                            Hi 👋, I'm Anderson 
                                               A passionate fullstack developer from Brazil
   <p align="left"><a href="https://www.instagram.com/paidoclarkedaclara/"><img src="https://lh3.googleusercontent.com/a/ALm5wu3B46orHJd0PQ5ocFwzq5o2xExFbBNM7fjFfytk=s455-p-no" target="_blank" alt="insta" width="100" height="100" style="border-radius:50px;"></a>  </p></div>
-                                              
+<div >                                              
 <div align="left">                                            
 🔭 I’m currently working at Localiza
 
@@ -12,10 +12,10 @@ DersonDawson/README.md                                     <div align="center">
 
 ⚡ Fun fact I love my Autistic Son 🧩 and my lovely daughter 🧡</div>
 <div align="right">
-📫 How to reach me:<p align="left"> <a href = "mailto:andersonsmurf@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="gmail" width="40" height="25"></a> <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" target="_blank" alt="insta" width="30" height="30"></a></p>
+📫 How to reach me:<p align="rightt"> <a href = "mailto:andersonsmurf@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="gmail" width="40" height="25"></a> <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" target="_blank" alt="insta" width="30" height="30"></a></p>
 
-📄 Know about my experiences:<p align="left"><a href="https://www.linkedin.com/in/anderson-machado-morais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DersonDawson" height="30" width="40" /></a>
-</p></div>
+📄 Know about my experiences:<p align="right"><a href="https://www.linkedin.com/in/anderson-machado-morais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DersonDawson" height="30" width="40" /></a>
+</p></div></div>
 
 
 <div align="center">
