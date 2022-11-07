@@ -8,7 +8,7 @@ DersonDawson/README.md
 
 💬 Ask me about ReactJS, NodeJS
 
-📫 How to reach me:<p align="left"> <a href = "mailto:andersonsmurf@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="gmail" width="40" height="30"></a> <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></p>
+📫 How to reach me:<p align="left"> <a href = "mailto:andersonsmurf@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" alt="gmail" width="40" height="25"></a> <a href="https://www.instagram.com/paidoclarkedaclara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></p>
 
 📄 Know about my experiences:<p align="left"><a href="https://www.linkedin.com/in/anderson-machado-morais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DersonDawson" height="30" width="40" /></a>
 </p>
