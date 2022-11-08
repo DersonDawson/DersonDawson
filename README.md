@@ -6,7 +6,7 @@ DersonDawson/README.md                                     <div align="center">
                                            
 🔭 I’m currently working at Localiza
 
-🌱 I’m currently learning C++
+🌱 I’m currently learning TS
 
 💬 Ask me about ReactJS, NodeJS
 
