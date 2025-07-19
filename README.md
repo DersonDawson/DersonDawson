@@ -52,6 +52,3 @@
 
 ---
 
-<div align="center">
-  ![Snake animation](github-contribution-grid-snake.svg)
-</div>
