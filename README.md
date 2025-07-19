@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  ![Snake animation](https://github.com/DersonDawson/snake-dersondawson/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](github-contribution-grid-snake.svg)
 </div>
